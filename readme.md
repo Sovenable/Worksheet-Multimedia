@@ -1,5 +1,5 @@
 # Tugas Implementasi: Real-time Remote Photoplethysmography (rPPG)
-# Link Repository :
+# Link Repository : https://github.com/Sovenable/Worksheet-Multimedia.git
 # Referensi Teknis Pengerjaan: https://chatgpt.com/share/69317daf-bc58-800a-bfc3-4571839d3fb4
 ## Deskripsi Tugas
 Tugas ini bertujuan memberikan pengalaman praktis bagi mahasiswa dalam mengimplementasikan teknologi Remote Photoplethysmography (rPPG) yang dibahas di kelas. Mahasiswa diminta membangun sebuah sistem perangkat lunak yang mampu mendeteksi detak jantung seseorang secara real-time menggunakan kamera (webcam) tanpa kontak fisik. Sistem ini mereplikasi pipeline rPPG dasar — dari deteksi wajah sampai estimasi BPM — dan menambahkan visualisasi realtime agar hasil dapat langsung diamati.
